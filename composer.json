@@ -1,0 +1,6 @@
+{
+    "require": {
+        "philo/laravel-blade": "3.*",
+        "catfan/Medoo": "^1.4"
+    }
+}
